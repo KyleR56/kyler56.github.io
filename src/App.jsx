@@ -94,7 +94,7 @@ function App() {
             <i className='fab fa-github'></i> kyler56
           </a>
         </div>
-        <a href='assets/resume.pdf' download='Kyle_Reinholdtsen_Resume.pdf' className='download-button'>
+        <a href='https://github.com/kyler56/resume/releases/latest/download/resume.pdf' download='Kyle_Reinholdtsen_Resume.pdf' className='download-button'>
           Download Resume <i className='fas fa-download'></i>
         </a>
       </footer>
