@@ -23,7 +23,7 @@ function App() {
           </ul>
           <h4>Technologies</h4>
           <ul>
-            <li>React.js, Node.js, Unity, PyTorch, Linux, Git.</li>
+            <li>React, Angular, Node.js, REST APIs, HTTP, Linux, Git, PyTorch.</li>
           </ul>
         </section>
         <section>
@@ -47,9 +47,10 @@ function App() {
           <p><i>University of Washington, Seattle</i></p>
           <ul>
             <li>
-              Developed the mission control website for operating the team’s rover using JavaScript, React.js, and Redux.
+              Developed the mission control website for operating the team’s rover using JavaScript, React, and Redux.
               <ul>
-                <li>Created UI elements for displaying the rover’s cameras and telemetry data (position, power, velocity).</li>
+                <li>Designed UI elements to display rover camera feeds and telemetry data (position, power, velocity)
+                using WebSocket communication.</li>
                 <li>Implemented a 3D rendering of the rover with React Three Fiber, dynamically updated in real-time using telemetry data.</li>
               </ul>
             </li>
@@ -67,7 +68,7 @@ function App() {
           <h4>MuseShare <a href='https://github.com/KyleR56/MuseShare'>(GitHub)</a></h4>
           <ul>
             <li>Built an online music sharing website for discovering and interacting with indie artists.</li>
-            <li>Designed and developed the user interface using React.js, ensuring optimal performance across both
+            <li>Designed and developed the user interface using React, ensuring optimal performance across both
             desktop and mobile devices.</li>
             <li>Used Firebase for database management and user authentication.</li>
           </ul>
@@ -94,7 +95,7 @@ function App() {
             <i className='fab fa-github'></i> kyler56
           </a>
         </div>
-        <a href='https://github.com/kyler56/resume/releases/latest/download/resume.pdf' download='Kyle_Reinholdtsen_Resume.pdf' className='download-button'>
+        <a href='https://github.com/KyleR56/Resume/releases/download/v1.1/Kyle_Reinholdtsen_Resume.pdf' download='Kyle_Reinholdtsen_Resume.pdf' className='download-button'>
           Download Resume <i className='fas fa-download'></i>
         </a>
       </footer>
