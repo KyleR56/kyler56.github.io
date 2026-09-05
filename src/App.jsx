@@ -185,7 +185,7 @@ function App() {
         </div>
 
         <a
-          href='https://github.com/KyleR56/Resume/releases/download/v1.3/Kyle_Reinholdtsen_Resume.pdf'
+          href='https://github.com/KyleR56/Resume/releases/download/v1.4/Kyle_Reinholdtsen_Resume.pdf'
           download='Kyle_Reinholdtsen_Resume.pdf'
           className='download-button'
         >
